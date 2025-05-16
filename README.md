@@ -2,7 +2,7 @@
 This repository contains the essential files and documentation for a Call Center Performance Analysis project.
 
 You can find the full project breakdown and insights on Medium here:
-👉 [**The 8% Gap: How One Dashboard Revealed Hidden Call Center Failures**](https://medium.com/@UjuEmmanuella/data-driven-customer-retention-the-churn-analysis-project-that-saved-4-3m-a0078fa8518d)
+👉 [**The 8% Gap: How One Dashboard Revealed Hidden Call Center Failures**](https://medium.com/@UjuEmmanuella/the-8-gap-how-one-dashboard-revealed-hidden-call-center-failures-and-how-we-fixed-them-ab41c64e4e50)
 
 ---
 
@@ -91,10 +91,15 @@ A leading customer service center was facing:
 
 ## 📖 Full Report
 
-👉 [Read the full Medium article here](https://medium.com/@UjuEmmanuella/data-driven-customer-retention-the-churn-analysis-project-that-saved-4-3m-a0078fa8518d)
+👉 [Read the full Medium article here](https://medium.com/@UjuEmmanuella/the-8-gap-how-one-dashboard-revealed-hidden-call-center-failures-and-how-we-fixed-them-ab41c64e4e50)
 
 ---
 
 ## 📊 Explore the Dashboard
 
-👉 **View the Interactive Power BI Dashboard** \[*insert your dashboard link here if available*]
+👉 **[View the Interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYTljODEyNDQtZGZjOC00ODYzLWE3NzYtMjRjZDcwZTQ1YmIyIiwidCI6IjE0ODkzNGNiLWQyMDgtNGU1Ny1hNGNkLWE2YTY2YWIyMDgwMCJ9&pageName=7c97773c71952600440a)**
+
+---
+
+![Performance Dashboard](Performance%20Dashboard.png)
+
