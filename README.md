@@ -1,4 +1,4 @@
-# Call-Center-Performance-Report-with-Power-BI
+# Call Center Performance Report with PowerBI
 This repository contains the essential files and documentation for a Call Center Performance Analysis project.
 
 You can find the full project breakdown and insights on Medium here:
